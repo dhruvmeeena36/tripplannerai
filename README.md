@@ -1,5 +1,8 @@
 # Waypoint — AI Trip Planner
 
+## LINK FOR FRONTEND LIVE - https://tripplannerai-black.vercel.app
+## LINK FOR BACKEND LIVE - https://tripplannerai-1.onrender.com
+
 You describe a trip in a sentence or two, the app hands back an editable,
 day-by-day itinerary. Not a chatbot — the model returns JSON, which gets
 parsed into stop cards you can expand, reorder, or delete.
